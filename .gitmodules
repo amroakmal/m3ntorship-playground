@@ -1,3 +1,6 @@
 [submodule "star-wars-npm"]
 	path = star-wars-npm
 	url = ./star-wars-npm
+[submodule "star-wars-npm-publish"]
+	path = star-wars-npm-publish
+	url = ./star-wars-npm-publish
