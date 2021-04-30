@@ -1,0 +1,3 @@
+[submodule "star-wars-npm"]
+	path = star-wars-npm
+	url = ./star-wars-npm
