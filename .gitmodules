@@ -3,4 +3,4 @@
 	url = ./star-wars-npm
 [submodule "star-wars-npm-publish"]
 	path = star-wars-npm-publish
-	url = ./star-wars-npm-publish
+	url = https://github.com/amroakmal/m3ntorship-playground
