@@ -1,8 +1,10 @@
 FROM node:14-alpine
-RUN apk --no-cache add curl
 
 WORKDIR /simle-node-dir
 
 COPY . .
 
+RUN apk --no-cache add curl
 RUN yarn
+
+# CMD ["node", "src/index.js"]
